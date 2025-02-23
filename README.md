@@ -5,7 +5,7 @@
 I'm a passionate **software developer** with a background in **computer science** and hands-on experience in **system programming, low-level development, and problem-solving**. Currently studying at **42 School**, where I focus on algorithms, data structures, and system-level programming. 
 
 ### 💻 **Tech Stack**
-- **Languages**: C, C++, Java, Python
+- **Languages**: C, C++, Python
 - **Tools & Technologies**: Git, Docker, Linux, VS Code
 - **Concepts**: Data Structures, Algorithms, System Programming, Networking (CCNA)
 
