@@ -1,6 +1,6 @@
 # Hi there, I'm Zayn! 👋
 
-🚀 **Software Developer | 42 Student | cyber security Enthusiast**
+🚀 **Software Developer | Student at 42 | cyber security Enthusiast**
 
 I'm a passionate **software developer** with a background in **computer science** and hands-on experience in **system programming, low-level development, and problem-solving**. Currently studying at **42 School**, where I focus on algorithms, data structures, and system-level programming. 
 
